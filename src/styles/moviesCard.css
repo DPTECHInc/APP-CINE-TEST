@@ -1,0 +1,24 @@
+.movie-container{
+    display: flex;
+}
+.moviesCard{
+    display: block;
+    background-color: rgba(0, 0, 0, 0.202);
+    max-width: 50%;
+    padding: 50px;
+    
+}
+.moviesTitles{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    
+    
+}
+.moviesDescription{
+    background-color: rgba(223, 223, 223, 0.793);
+}
+.moviesImg{
+    border-radius: 5%;
+}
